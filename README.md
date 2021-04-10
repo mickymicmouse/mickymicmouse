@@ -1,11 +1,15 @@
 ### Seungjun's GitHub 👋
   <div align=center>
-	
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmickymicmouse&count_bg=%23B93DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)](https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)
-  [![Seungjun's github stats](https://github-readme-stats.vercel.app/api?username=mickymicmouse)](https://github.com/anuraghazra/github-readme-stats)
-  
   </div>
+  </p align=center>
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)](https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)
+  </p>
+  </l>
+  [![Seungjun's github stats](https://github-readme-stats.vercel.app/api?username=mickymicmouse)](https://github.com/anuraghazra/github-readme-stats)
+  </l>
+
 
 
 <!--
