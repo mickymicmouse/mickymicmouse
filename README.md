@@ -5,7 +5,10 @@
 	
   </div>
 <p align = center>  
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)](https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)</p>
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)](https://www.youtube.com/channel/UCBItQGA8zPyvan3GxDHvahA)
+
+</p>
 
 <div align = center>[![Seungjun's github stats](https://github-readme-stats.vercel.app/api?username=mickymicmouse)](https://github.com/anuraghazra/github-readme-stats)</div>
 
