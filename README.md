@@ -13,7 +13,8 @@
 * Stock Price Forecast
 #### Paper
 * A Preprocessing Strategy for Denoising of Speech Data Based on Speech Segment Detection
-
+\n
+\n
 
   [![Seungjun's github stats](https://github-readme-stats.vercel.app/api?username=mickymicmouse)](https://github.com/anuraghazra/github-readme-stats)
 
