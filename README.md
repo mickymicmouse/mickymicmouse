@@ -12,6 +12,10 @@
   * Classification
 * Voice Reduction
 * Stock Price Forecast
+* NLP
+  * Log Anomaly Detection
+  * Word Embedding
+  * Classification
 ### Paper
 * A Preprocessing Strategy for Denoising of Speech Data Based on Speech Segment Detection
   <br>
