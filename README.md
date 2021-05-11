@@ -5,6 +5,7 @@
 ## 🐭 Seungjun's GitHub 🐭
 ### Junior Machine Learning Engineer
 * trying to be a ML Engineer
+* graduation seoultech ITM department
 ### Interest
 * Computer Vision
   * Object Detection
