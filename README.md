@@ -7,17 +7,18 @@
 * trying to be a ML Engineer
 * graduation seoultech ITM department
 ### Interest
-* Computer Vision
-  * Object Detection
-  * Anomaly Detection
-  * Classification
-* Voice Reduction
-* Stock Price Forecast
-* NLP
-  * Log Anomaly Detection
-  * Word Embedding
-  * Classification
-* Wep Page Development
+* AI (DL, ML)
+  * Computer Vision
+    * Object Detection
+    * Anomaly Detection
+    * Classification
+  * Voice Reduction
+  * Stock Price Forecast
+  * NLP
+    * Log Anomaly Detection
+    * Word Embedding
+    * Classification
+* Wep Development
   * Spring
   * Ajax
   * AI API Utilization
