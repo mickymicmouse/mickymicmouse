@@ -17,6 +17,10 @@
   * Log Anomaly Detection
   * Word Embedding
   * Classification
+* Wep Page Development
+  * Spring
+  * Ajax
+  * AI API Utilization
 ### Paper
 * A Preprocessing Strategy for Denoising of Speech Data Based on Speech Segment Detection
   <br>
