@@ -4,7 +4,7 @@
   
 ## 🐭 Seungjun's GitHub 🐭
 ### Junior Machine Learning Engineer
-* trying to be a ML Engineer
+* Naver ML Engineer
 * graduation seoultech ITM department
 ### Interest
 * AI (DL, ML)
