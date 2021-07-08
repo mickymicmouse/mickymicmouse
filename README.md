@@ -8,6 +8,7 @@
 * graduation seoultech *ITM* department
 ### Interest
 * AI (DL, ML)
+  * Recommandation System
   * Computer Vision
     * Object Detection
     * Anomaly Detection
